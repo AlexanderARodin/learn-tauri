@@ -1,5 +1,7 @@
 const { invoke } = window.__TAURI__.tauri;
 
+invoke('click')
+
 let greetInputEl;
 let greetMsgEl;
 

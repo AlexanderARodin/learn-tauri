@@ -10,6 +10,9 @@ run: release size
 edit:
 	@nvim ./src-tauri/src/main.rs
 
+edit-js:
+	@nvim ./src/main.js
+
 savetogit:
 	@git add . && git commit -m 'saving' && git push
 

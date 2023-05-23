@@ -4,4 +4,7 @@ I hope this template should help get me started developing with Tauri in vanilla
 
 ## Recommended IDE Setup
 
-- nvim + make xD
+- nvim
+- a little bit Makefile
+- sometimes maybe MC
+
